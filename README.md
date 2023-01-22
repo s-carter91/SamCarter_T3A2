@@ -61,7 +61,7 @@ Even for gamers with the time to play consistently, the sheer number of games th
 
 ## R3 - Architecture Diagram
 
-![Architecture Diagram](/Resources/architecture_diagram.jpg)
+![Architecture Diagram](/Resources/arcitechture_diagram_final.jpg)
 
 ## R4 - User Stories
 
