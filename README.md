@@ -57,7 +57,7 @@ Even for gamers with the time to play consistently, the sheer number of games th
 
 ## R2 - Dataflow Diagram
 
-
+![Data Flow Diagram](Resources/data_flow_diagram_game_app.jpeg)
 
 ## R3 - Architecture Diagram
 
@@ -67,7 +67,12 @@ Even for gamers with the time to play consistently, the sheer number of games th
 
 Below is a list of user stories and beneath each are how the User Story action focus is carried out within the application.
 
-#### As an end-user of the site I want to be able to create an account and log in so I can and access the features on the site
+#### As an user of the site I want to create an account so I can login
+
+* Provide an email, name and password when creating an account
+* If an email address already belongs to an account and a new account is created with the same email, the user will receive an message making them aware of this
+
+#### As an user of the site I want to an log in so I access the features on the site
 
 * Username and Password match that of a user account in the system and end-user is taken to the homepage/profile page
 * Username is wrong so credentials error is shown to end-user
@@ -75,7 +80,7 @@ Below is a list of user stories and beneath each are how the User Story action f
 * Username is left blank so end-user will be shown an error advising username box cannot be empty
 * Password is left blank so end user will be shown an error advising password box cannot be empty
 
-#### As a user I want to view a list of all games so I can view or add games to my profile and play them 
+#### As a user I want to view a list of all games so I can view or add games to my profile and play them
 
 * User can select the “Games List” option from the sticky nav bar at the top of the page
 * User can select “Games List” option from the Home Page
@@ -90,7 +95,7 @@ Below is a list of user stories and beneath each are how the User Story action f
 
 * User can select a game from the games list to view the game details on the game page
 
-#### As a user I want to be able to filter games using certain options (genre, on a platform, total hours to complete, single player and/or multiplayer?) so I can discover games based on my preferences
+#### As a user I want to be able to filter games using certain options (genre, platform, hours to complete, multiplayer?) so I can discover games based on my preferences
 
 * User picks “strategy” genre from a drop-down list which displays only games belonging to this genre
 * User picks “PlayStation 5” platform from a drop-down list which displays only the games available to play on the PlayStation 5
@@ -142,3 +147,7 @@ Below is a list of user stories and beneath each are how the User Story action f
 ![Trello Board 3](/Resources/trello3.jpg)
 
 ![Trello Board 4](/Resources/trello4.jpg)
+
+![Trello Board - User Stories](/Resources/trello_login_user_stories.png)
+
+![Trello Board - User Stories 2](Resources/trello_add_remove_user_stories.png)
