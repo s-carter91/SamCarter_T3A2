@@ -145,7 +145,7 @@ Below is a list of user stories and beneath each are how the User Story action f
 | Page Name | Desktop | Tablet | Mobile |
 |-----------|---------|--------|--------|
 | Home |![Home Page Desktop](/Resources/Wireframes/Desktop/home_desktop.png)|![Home Page Tablet](/Resources/Wireframes/Ipad/home_ipad.jpg)|![Home Page Mobile](/Resources/Wireframes/Mobile/home_page_mobile.jpg)|
-| Login |![Login Page Desktop](/Resources/Wireframes/Desktop/login_desktop.png)|![Login Page Tablet](/Resources/Wireframes/Ipad/login_ipad.jpg)|![Login Page Mobile](/Resources/Wireframes/Mobile/login_page_mobile.jpg|
+| Login |![Login Page Desktop](/Resources/Wireframes/Desktop/login_desktop.png)|![Login Page Tablet](/Resources/Wireframes/Ipad/login_ipad.jpg)|![Login Page Mobile](/Resources/Wireframes/Mobile/login_page_mobile.jpg)|
 | Signup |![Signup Page Desktop](/Resources/Wireframes/Desktop/signup_desktop.png)|![Signup Page Tablet](/Resources/Wireframes/Ipad/registration_ipad.jpg)|![Signup Page Mobile](/Resources/Wireframes/Mobile/sigunup_page_mobile.jpg)|
 
 ## R6 - Trello Board Screenshots
