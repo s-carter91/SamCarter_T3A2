@@ -147,6 +147,9 @@ Below is a list of user stories and beneath each are how the User Story action f
 | Home |![Home Page Desktop](/Resources/Wireframes/Desktop/home_desktop.png)|![Home Page Tablet](/Resources/Wireframes/Ipad/home_ipad.jpg)|![Home Page Mobile](/Resources/Wireframes/Mobile/home_page_mobile.jpg)|
 | Login |![Login Page Desktop](/Resources/Wireframes/Desktop/login_desktop.png)|![Login Page Tablet](/Resources/Wireframes/Ipad/login_ipad.jpg)|![Login Page Mobile](/Resources/Wireframes/Mobile/login_page_mobile.jpg)|
 | Signup |![Signup Page Desktop](/Resources/Wireframes/Desktop/signup_desktop.png)|![Signup Page Tablet](/Resources/Wireframes/Ipad/registration_ipad.jpg)|![Signup Page Mobile](/Resources/Wireframes/Mobile/sigunup_page_mobile.jpg)|
+| Profile |![Profile Page Desktop](/Resources/Wireframes/Desktop/profile_desktop.png)|![Profile Page Tablet](/Resources/Wireframes/Ipad/profile_ipad.jpg)|![Profile Page Mobile](/Resources/Wireframes/Mobile/profile_page_mobile_1.jpg)![Profile Page Mobile](/Resources/Wireframes/Mobile/profile_page_mobile_2.jpg|
+| Games List |![Games List Page Desktop](/Resources/Wireframes/Desktop/games_list.png)|![Games List Page Tablet](/Resources/Wireframes/Ipad/games_list_ipad.jpg)|![Games List Page Mobile](/Resources/Wireframes/Mobile/games_list_mobile.jpg)|
+| Game Details |![Game Page Desktop](/Resources/Wireframes/Desktop/game_desktop.png)|![Game Page Tablet](/Resources/Wireframes/Ipad/game_page_ipad.jpg)|![Game Page Mobile](/Resources/Wireframes/Mobile/game_page_mobile_1.png)![Game Page Mobile 2](/Resources/Wireframes/Mobile/game_page_mobile_2.jpg)|
 
 ## R6 - Trello Board Screenshots
 
