@@ -146,8 +146,10 @@ Below is a list of user stories and beneath each are how the User Story action f
 
 ![Trello Board 3](/Resources/trello3.jpg)
 
-![Trello Board 4](/Resources/trello4.jpg)
+![Trello Board 4](/Resources/trello_completed.png)
 
 ![Trello Board - User Stories](/Resources/trello_login_user_stories.png)
 
 ![Trello Board - User Stories 2](Resources/trello_add_remove_user_stories.png)
+
+![Trello Wireframes](/Resources/trello_wireframes.png)
