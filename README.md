@@ -57,11 +57,11 @@ Even for gamers with the time to play consistently, the sheer number of games th
 
 ## R2 - Dataflow Diagram
 
-![Data Flow Diagram](Resources/data_flow_diagram_game_app.jpeg)
+![Data Flow Diagram](/Resources/data_flow_diagram_game_app.jpeg)
 
 ## R3 - Architecture Diagram
 
-![Architecture Diagram](/Resources/arcitechture_diagram_final.jpg)
+![Architecture Diagram](/Resources/arch_dia.png)
 
 ## R4 - User Stories
 
